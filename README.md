@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @subhansiddique
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning  in SMIT...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hey, I'm Subhan an Experienced Web and Mobile Developer, with a track record of 1+ years in the industry. Proficient in React, React Native, Redux, NextJS, Typescript, JavaScript, and Firebase, I have successfully collaborated with various NFT, Blockchain, Realstate companies, and more, of over 350 satisfied clients.
 
-<!---
-subhansiddique/subhansiddique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's connect to explore how my expertise can help your ventures thrive.
+
+
