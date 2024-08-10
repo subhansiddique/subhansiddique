@@ -1,4 +1,17 @@
 
+<h1 align="center">Hi 👋, I'm SUBHAN</h1>
+<h3 align="center">A passionate frontend developer from PAKISTAN.  I'm  a web and mobile app developer exploring the tech world. Right now, I know HTML, CSS, and JavaScript well, and I'm starting to learn React.js. I'm taking a course at SMIT (Saylani Mass IT Training) to improve my skills and get rid of any unnecessary stuff. Let's work on cool projects together!</h3>
+
+- 🔭 I’m currently working on **reactjs**
+
+- 🌱 I’m currently learning **frameworks**
+
+- 👯 I’m looking to collaborate on **react js**
+
+- 📫 How to reach me **subhansiddique2805@gmail.com**
+
+- ⚡ Fun fact **I think Iam Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/subhan siddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhan siddique" height="30" width="40" /></a>
