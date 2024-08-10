@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SUBHAN</h1>
-<h3 align="center">A passionate frontend developer from PAKISTAN</h3>
+<h3 align="center">A passionate frontend developer from PAKISTAN . I'm a web and mobile app developer exploring the tech world. Right now, I know HTML, CSS, and JavaScript well, and I'm starting to learn React.js. I'm taking a course at SMIT (Saylani Mass IT Training) to improve my skills and get rid of any unnecessary stuff. Let's work on cool projects together!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhansiddique" alt="subhansiddique" /></a> </p>
 
